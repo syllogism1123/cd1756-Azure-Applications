@@ -13,7 +13,7 @@ app.config.from_object(Config)
 # TODO: Add any logging levels and handlers with app.logger
 app.logger.setLevel(logging.ERROR)
 streamHandler = logging.StreamHandler()
-streamHandler.setLevel(logging.ERROR)
+streamHandler.setLevel(logging.INFO)
 app.logger.addHandler(streamHandler)
 
 Session(app)

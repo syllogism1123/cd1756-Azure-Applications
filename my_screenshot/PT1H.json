@@ -1,0 +1,1966 @@
+{
+  "time": "2024-04-22T12:04:33.006618814Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": "    _____                               \n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+,
+{
+  "time": "2024-04-22T12:04:33.006658414Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": "   /  _  \\ __________ _________   ____  \n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+,{
+  "time": "2024-04-22T12:04:33.006663714Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": "  /  /_\\  \\\\___   /  |  \\_  __ \\_/ __ \\ \n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+,{
+  "time": "2024-04-22T12:04:33.006667314Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " /    |    \\/    /|  |  /|  | \\/\\  ___/ \n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+},
+{
+  "time": "2024-04-22T12:04:33.006670614Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " \\____|__  /_____ \\____/ |__|    \\___  >\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:33.006674114Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": "         \\/      \\/                  \\/ \n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:33.006677514Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " A P P   S E R V I C E   O N   L I N U X\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:33.006680714Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " \n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:33.006683714Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Documentation: http://aka.ms/webapp-linux\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:33.006686714Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Python 3.12.2\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:33.006689814Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Note: Any data outside '/home' is not persisted\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.173924804Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Starting OpenBSD Secure Shell server: sshd.\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.386011059Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " App Command Line not configured, will attempt auto-detect\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.394152049Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Launching oryx with: create-script -appPath /home/site/wwwroot -output /opt/startup/startup.sh -virtualEnvName antenv -defaultApp /opt/defaultsite\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.541905578Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Found build manifest file at '/home/site/wwwroot/oryx-manifest.toml'. Deserializing it...\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.543909876Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Build Operation ID: 8b6e06d79efbbaf5\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.551056968Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Output is compressed. Extracting it...\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.551096268Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Oryx Version: 0.2.20240319.4, Commit: 350bad7f37fa55a2d965474e7e95f9075e989e10, ReleaseTagName: 20240319.4\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:35.562345855Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Extracting '/home/site/wwwroot/output.tar.gz' to directory '/tmp/8dc62c40d593fc8'...\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:44.993124404Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " App path is set to '/tmp/8dc62c40d593fc8'\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:45.128830148Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Detected an app based on Flask\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:45.128857348Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Generating `gunicorn` command for 'application:app'\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:45.167643704Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Writing output script to '/opt/startup/startup.sh'\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:45.265975391Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Using packages from virtual environment antenv located at /tmp/8dc62c40d593fc8/antenv.\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:45.281762273Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Updated PYTHONPATH to '/opt/startup/app_logs:/tmp/8dc62c40d593fc8/antenv/lib/python3.12/site-packages'\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:46.510187767Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:04:46 +0000] [70] [INFO] Starting gunicorn 21.2.0\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:46.538398335Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:04:46 +0000] [70] [INFO] Listening at: http://0.0.0.0:8000 (70)\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:46.538431335Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:04:46 +0000] [70] [INFO] Using worker: sync\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:46.574360394Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:04:46 +0000] [73] [INFO] Booting worker with pid: 73\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:04:57.473599680Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:04:57 +0000] \"GET /robots933456.txt HTTP/1.1\" 404 207 \"-\" \"HealthCheck/1.0\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:09.216658576Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:09 +0000] \"GET /logout HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:09.843713968Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:09 +0000] \"GET /login HTTP/1.1\" 200 2904 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.070743411Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.103727574Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/content/site.css HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.298111155Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.672614732Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.720329878Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.735263561Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:10.754321540Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:10 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 200 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.101610510Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:05:16,101] INFO in views: Login succeeded\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.108409302Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login succeeded\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.118826191Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"POST /login HTTP/1.1\" 302 197 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.446226622Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"GET /home HTTP/1.1\" 200 2777 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.740690390Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.781871244Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.802995520Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.821092600Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:16.845376372Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:16 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:17.026132869Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:17 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:44.497485344Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:44 +0000] \"GET /logout HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:44.967144622Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:44 +0000] \"GET /login HTTP/1.1\" 200 2904 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.242955516Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.243012516Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.278529476Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.289230064Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.308175943Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.513428115Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:45.532756694Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:45 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:49.447952150Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:05:49,447] INFO in views: Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:49.449488248Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:49.469147126Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:49 +0000] \"POST /login HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.083275946Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /login HTTP/1.1\" 200 3045 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.363728235Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.383035413Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.394921300Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.441229049Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.471967915Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.646852521Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:05:50.664568802Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:05:50 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:18.432910115Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:06:18,432] INFO in views: Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:18.436377112Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:18.446658100Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:18 +0000] \"POST /login HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.002032091Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:18 +0000] \"GET /login HTTP/1.1\" 200 3045 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.309586254Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.335314526Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.353336206Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.364162794Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.381185675Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.635869496Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:19.664587865Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:19 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:22.874917646Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:06:22,874] INFO in views: Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:22.876018745Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:22.885940834Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:22 +0000] \"POST /login HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.420683248Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /login HTTP/1.1\" 200 3045 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.669269076Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.724062416Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.734174305Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.743897894Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.782161352Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.947454671Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:23.966081150Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:23 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:26.807668439Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:06:26,806] INFO in views: Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:26.808822038Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login attempt failed\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:26.825069920Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:26 +0000] \"POST /login HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.332614564Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /login HTTP/1.1\" 200 3045 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.598918673Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.637434631Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.648907618Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.669512396Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.686629877Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.851522997Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:27.870552676Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:27 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.173201551Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:06:29,172] INFO in views: Login succeeded\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.174471849Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login succeeded\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.200961620Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"POST /login HTTP/1.1\" 302 197 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.424153676Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"GET /home HTTP/1.1\" 200 2777 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.760530509Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.789675577Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.801432264Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.858835301Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:29.858866801Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:29 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:30.040166903Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:30 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:32.108655547Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:32 +0000] \"GET /logout HTTP/1.1\" 302 199 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:32.628595180Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:32 +0000] \"GET /login HTTP/1.1\" 200 2904 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:32.934970446Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:32 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:32.963520015Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:32 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:32.995259181Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:32 +0000] \"GET /static/images/sign-in-with-ms.svg HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:33.024971448Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:33 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:33.050824120Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:33 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:33.206882750Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:33 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:33.247198706Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:33 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:34.657881570Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " [2024-04-22 12:06:34,657] INFO in views: Login succeeded\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:34.659250868Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " Login succeeded\n\n",
+  "level": "Error",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:34.669477557Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:34 +0000] \"POST /login HTTP/1.1\" 302 197 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:34.883593224Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:34 +0000] \"GET /home HTTP/1.1\" 200 2777 \"https://my-article-cms1123.azurewebsites.net/login\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:35.200457179Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:35 +0000] \"GET /static/content/bootstrap.min.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:35.268676405Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:35 +0000] \"GET /static/content/site.css HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:35.300734570Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:35 +0000] \"GET /static/scripts/modernizr-2.6.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:35.300771470Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:35 +0000] \"GET /static/scripts/jquery-1.10.2.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:35.319362550Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:35 +0000] \"GET /static/scripts/respond.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}
+{
+  "time": "2024-04-22T12:06:35.336662631Z",
+  "resourceId": "/SUBSCRIPTIONS/752715F5-DF31-4865-845F-8D57D11FDF13/RESOURCEGROUPS/CLOUD-DEMO/PROVIDERS/MICROSOFT.WEB/SITES/MY-ARTICLE-CMS1123",
+  "containerId": "07c9c1211cf85ff432203260bdf942dad37b06e4914a95f86614050623502d9a",
+  "operationName": "Microsoft.Web/sites/log",
+  "category": "AppServiceConsoleLogs",
+  "resultDescription": " 169.254.129.1 - - [22/Apr/2024:12:06:35 +0000] \"GET /static/scripts/bootstrap.js HTTP/1.1\" 304 0 \"https://my-article-cms1123.azurewebsites.net/home\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36\"\n\n",
+  "level": "Informational",
+  "location": "West US 2",
+  "EventStampType": "Stamp",
+  "EventPrimaryStampName": "waws-prod-mwh-113",
+  "EventStampName": "waws-prod-mwh-113",
+  "Host": "lw0sdlwk0001Q1",
+  "EventIpAddress": "10.50.0.45"
+}

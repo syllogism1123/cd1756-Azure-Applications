@@ -78,7 +78,6 @@ def login():
         if not next_page or urlparse(next_page).netloc != '':
             next_page = url_for('home')
             app.logger.info('Login succeeded')
-
         return redirect(next_page)
     session["state"] = str(uuid.uuid4())
     auth_url = _build_auth_url(scopes=Config.SCOPE, state=session["state"])
